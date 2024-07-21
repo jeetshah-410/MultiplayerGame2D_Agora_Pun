@@ -1,0 +1,16 @@
+Binaries
+DerivedDataCache
+Temp
+Logs
+Build
+Library
+
+.vscode
+.vs
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.suo
+*.booproj
+*.svd
